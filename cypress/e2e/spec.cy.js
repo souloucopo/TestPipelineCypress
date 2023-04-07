@@ -1,4 +1,4 @@
-describe('BD_CONNECT', () => {
+describe('TEST', () => {
    
     it('Funerario Santa Luzia Sua Morte nossa alegria',()=>{
         cy.visit("https://paxuniao.com/")
